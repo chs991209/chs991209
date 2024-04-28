@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1> Hyeonsu Choi✨</h1>
 
-- 🌱 I’ve began making AI Project software these days.
+- 🌱 I’ve began making AI Project software these days(team project).
+- 📚 I'm currently studying in <b> Software Engineering Studies Department </b> of JBNU(3rd grade).
 - 🧐 I’m currently interested in: Data Analysis(RNN, ..), MLOps, LLM
 - 🖥️ I've participated in <a href="https://wecode.co.kr">Wecode</a> 50th Backend Webserver on Dev 23 Sep ~ 23 Dec
 - 🎸 I've been interested in music streaming platforms, using TIDAL, spotify, etc for years, <br>interested in music-related companies like DreamUs, Hybe, Aspiro(TIDAL) or Spotify(Spotify AI for voice data) soon</br>
@@ -23,6 +24,7 @@
 
 
   <br>
+    <img src="https://img.shields.io/badge/Java-d91e20?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
