@@ -7,7 +7,7 @@
 - 🖥️ I've participated in <a href="https://wecode.co.kr">Wecode</a> 50th Backend Webserver on Dev 23 Sep ~ 23 Dec
 - 🎸 I've been interested in music streaming platforms, using TIDAL, spotify, etc for years, <br>interested in music-related companies like DreamUs, Hybe, Aspiro(TIDAL) or Spotify(Spotify AI for voice data) soon</br>
 - 📫 How to reach/contact me: chs991209@gmail.com ✨
-- 🧑🏼‍💻 I'm continuously writing useful&powerful tips on my tech blog. <a href="https://velog.io/@wecccccokio/posts">Here</a> for my velog blog.
+- 🧑🏼‍💻 I'm continuously writing useful&powerful tips on my tech blog. <a href="https://inblog.ai/software-engineering?traffic_type=internal">Inblog Blog Site</a> established and <a href="https://velog.io/@wecccccokio/posts">Here</a> for my velog blog.
 
 <p></p>
 <p></p>
