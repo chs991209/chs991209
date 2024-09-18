@@ -12,7 +12,7 @@
 <p></p>
 <p></p>
 
-# <p align="center"><b>Technologies</b></p>
+# <p align="center"><b>High-level Langue & Web FrameWorks & Servers & Tools</b></p>
 <p></p>
 <div align="center">
    <img src="https://img.shields.io/badge/python-3766ab?style=for-the-badge&logo=Python&logoColor=yellow">
@@ -29,8 +29,22 @@
    
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/TypeOrm-FE0702?style=for-the-badge&logo=TypeOrm&logoColor=orange">
+   <img src="https://img.shields.io/badge/AWS-FF9901?style=for-the-badge&logo=AmazonWebServices&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
+    <img src="https://img.shields.io/badge/Jetbrains-C407A8?style=for-the-badge&logo=Jetbrains&logoColor=black">
+    <img src="https://img.shields.io/badge/Pycharm-24DB76?style=for-the-badge&logo=Pycharm&logoColor=black">
+   <img src="https://img.shields.io/badge/IntelliJ-E4305D?style=for-the-badge&logo=IntelliJidea&logoColor=black">
+   <img src="https://img.shields.io/badge/WebStorm-59D7F3?style=for-the-badge&logo=WebStorm&logoColor=black">
+   <img src="https://img.shields.io/badge/DataGrip-2BD58E?style=for-the-badge&logo=DataGrip&logoColor=black">
+      <img src="https://img.shields.io/badge/AndroidStudio-4285F4?style=for-the-badge&logo=AndroidStudio&logoColor=lightgreen">
+
+
+
+
+
+
   </br>
 </div>
 
