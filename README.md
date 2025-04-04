@@ -1,18 +1,45 @@
 ### Hi there 👋
 <h1> Hyeonsu Choi✨</h1>
 
-- 🌱 I’m additionally training developing tensorflow opensource using data analysis projects in college department's group study.
-- 📚 I'm currently studying in <b> Software Engineering Studies Department </b> of JBNU(3rd grade).
+- 👨‍💻 On Capstone Project, receiving Voice Commands to transfer to text and connect MCP protocol command generating AI.
+   - OpenAI Whisper, pytorch CUDA, ffmpeg, FastApi(Framework) and etc service&libraries are gonna be used for it.
+
+- 📚 I'm currently studying in <b> Software Engineering Studies Department </b> of JBNU(4th grade, 2025).
 - 🧐 I’m currently interested in: Data Analysis Science, MLOps, LLM and etc like RNN.
+
+- On the way of using python, java, typescript, RDBMS(Mysql, Postgresql), Docker based deployment infrastructure and React to construct AI-connected services.
+   <br>
+   - Springboot/Spring not been used til now(for me), so I'm gonna try some projects using Springboot Framework.
+   - Postgresql is not used by me, so I'm on the DBMS Study of SUSC(DEVOCEAN platform of SK group supporting) community, 
+      <br>for MYSQL&POSTGRESQL through
+      <br>Database_Design and Modeling with PostgreSQL and MySQL - Alkin Tezuysa</br>
+      25.03.25~
+      <br>Simply Arranging contents from study 👉<a href="https://github.com/SUSC-KR/25SS_Database_Study">Github</a>&nbsp; Soon notion will be added(study notion not being shared online now)</br>
+   - Have not been using React on the project's client part, but I've picked up using React for Web Client and using Next.js for web client, til now.
+      - I can make some assistance to the Frontend Engineer on the field while co-working and communicating.(Not on my main position)
+
+   - Felt the need to transfer to Docker based deployment(as I'm using the offical organizations' docker images on the docker hub efficiently now)
+      - In the step of propounding joining google form for SUSC docker deployment 2025 SUMMER STUDY now.
+
+   - Not gonna use Django for main webserver, but going to use FastApi for agile server developement.
+      - Django not for just a simple working webserver.
+   - Going to use Typescript on NestJs for webserver also when in the condition of need.
+
+
+
+
 - 🖥️ I've participated in <a href="https://wecode.co.kr">Wecode</a> 50th Backend Webserver dev from 2023 Sep to 2023 Dec
 - 🎸 I've been interested in music streaming platforms, using TIDAL, spotify, etc for years, <br>interested in music-related companies like DreamUs, Hybe, Aspiro(TIDAL) or Spotify Voice AI soon<br> Additionally interested in 64Audio and etc audio device companies' engineering.
+- Willing to join 🥕**Carrot(당근)**'s search engine server department for Software Engineer
+
 - 📫 How to reach/contact me: chs991209@gmail.com ✨
-- 🧑🏼‍💻<a href="https://chs991209.github.io">Github Blog</a> or <a href="https://inblog.ai/software-engineering?traffic_type=internal">Inblog Blog Site</a> for computer science&algorithms and <a href="https://velog.io/@wecccccokio/posts">Velog</a> for etc engineering blog. <br>I'm moving the contents to and posting new contents on github blog.</br>
+- 🧑🏼‍💻<a href="https://chs991209.github.io">Github Blog</a> is present(soon contents will be migrated to this, from tistory and other blogs) <a href="https://www.tistory.com">Tistory</a> for Software Engineering Log. 
+<br></br>
 
 <p></p>
 <p></p>
 
-# <p align="center"><b>High-level Langue & Web FrameWorks & Servers & Tools</b></p>
+# <p align="center"><b>High-level Language & Technology & Tools</b></p>
 <p></p>
 <div align="center">
    <img src="https://img.shields.io/badge/python-3766ab?style=for-the-badge&logo=Python&logoColor=yellow">
