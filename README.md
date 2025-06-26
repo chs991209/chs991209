@@ -2,14 +2,18 @@
 # Hyeonsu Choi ✨  
 
 ## 🚀 About Me  
-👨‍💻 **Capstone Project**
-**MCP Based Agentic AI Service**
+👨‍💻 **2025 SE Capstone Project**
+<br>**MCP Based Agentic AI Service**</br>
 **Personal Voice Assistant**
 - Receiving **User Command(Voice/Text) w/ Client App** → **STT Process** 
-<br>→ **Local USER PC Actions Set Generator Team Process** → **User PC Local MCP Server's Actions Execution Process**
-- Using: 'Autogen Framework', 'faster-whisper', 'Electron' and more  
+<br>→ **Local USER PC Actions Set Generator Team** → **UserPC's Local MCP Server Actions Execution**
+- Using: 'Autogen', 'faster-whisper', 'Electron' and more  
 
+---
 📚 **Software Engineering Student** @ JBNU (4th grade, 2025)  
+<a href="https://sites.google.com/view/jbnussel">**Software System Engineering Lab**</a>
+  - Student Researcher
+
 🧐 **Interests**: Data Science | MLOps | LLM | RNN | Agentic AI | Physical AI
 
 ---  
