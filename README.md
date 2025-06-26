@@ -11,8 +11,8 @@
 
 ---
 📚 **Software Engineering Student** @ JBNU (4th grade, 2025)  
-<a href="https://sites.google.com/view/jbnussel">**Software System Engineering Lab**</a>
-  - Student Researcher
+Student Researcher @ <a href="https://sites.google.com/view/jbnussel">**Software System Engineering Lab**</a>
+ 
 
 🧐 **Interests**: Data Science | MLOps | LLM | RNN | Agentic AI | Physical AI
 
