@@ -50,14 +50,14 @@ Undergrade Researcher @ Statistics Lab - GLAMP of JBNU
 
 
 - Have used
-  - Just
-![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)   
-- One of the Multi servers needed for Agentic AI. Not being executed for all functions.
+  - <p>Just
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)   
+- <p>One of the Multi servers needed for Agentic AI. Not being executed for all functions.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)    
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - Just for Experimental Web service deisgn mini projects
 
-**AgenticAI Framework**
+### **AgenticAI Framework**
 ![Autogen](https://img.shields.io/badge/Autogen-37546E?style=for-the-badge&logo=Microsoft&logoColor=white)
 
 
@@ -66,9 +66,9 @@ Undergrade Researcher @ Statistics Lab - GLAMP of JBNU
 ![TypeORM](https://img.shields.io/badge/TypeOrm-FE0702?style=for-the-badge&logo=TypeOrm&logoColor=orange)
 
 - Have studied
-  - Just have studied a little bit
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-*[Study Log](https://github.com/SUSC-KR/25SS_Database_Study))*
+  - <p>Just have studied a little bit</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Study Log](https://github.com/SUSC-KR/25SS_Database_Study)*
 
 ### **Tools & IDEs**  
 ![JetBrains](https://img.shields.io/badge/Jetbrains-C407A8?style=for-the-badge&logo=Jetbrains&logoColor=black)  
