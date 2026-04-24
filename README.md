@@ -1,6 +1,6 @@
 ### Hi there! 👋  
 # Hyeonsu Choi ✨  
-(chs991209@gmail.com|010-4664-1824|linkedin.com/chscamping)
+(chs991209@gmail.com|010-4664-1824|linkedin.com/in/chscamping|scholar.google.com/citations?user=V4S55GgAAAAJ&hl=ko)
 
 
 Brief Biography direction around these days
@@ -21,7 +21,7 @@ with a Minor in Molecular Biology                     Mar. 2018 – Aug. 2026 (E
 ## EXPERIENCE
 
 Undergraduate Researcher - PI: Professor Gwangsu Kim       Jan. 2026 - Ongoing
-<br>Statistical for learning AI Lab | Department of Statistics
+<br>Statistical Learning for AI Lab | Department of Statistics
 
 Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – Dec.2025
 <br>Software System Engineering Lab | Department of Software Engineering
@@ -31,7 +31,7 @@ Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – De
 
 ### **VOG Data-Based MCI Detection AI System Research, in Cooperation with JBNUH**
 
-<br>Role: Undergraduate Researcher | Statistical for learning AI Lab
+<br>Role: Undergraduate Researcher | Statistical Learning for AI Lab
 
 <br>– Iterating EDA of VOG (Video Oculography) data,
 <br>researching MCI detection system’s architecture and interpretability of it    Mar. 2026 – **Ongoing**
@@ -40,7 +40,7 @@ Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – De
 
 ### **Research of AI Systems’ Reproducibility Problems’ Solution in the Medical Field**
 
-<br>Role: Undergraduate Researcher | Statistical for learning AI Lab
+<br>Role: Undergraduate Researcher | Statistical Learning for AI Lab
 
 <br>– Performing continuous EDA of breast cancer data, researching 
  <br>DL-based AI systems’ domain gap & reproducibility solution metrics         Mar. 2026 – **Ongoing**
