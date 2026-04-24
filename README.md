@@ -1,6 +1,6 @@
 ### Hi there! 👋  
 # Hyeonsu Choi ✨  
-(chs991209@gmail.com|010-4664-1824|linkedin.com/in/chscamping|scholar.google.com/citations?user=V4S55GgAAAAJ&hl=ko)
+(chs991209@gmail.com|linkedin.com/in/chscamping|scholar.google.com/citations?user=V4S55GgAAAAJ&hl=ko)
 
 
 Brief Biography direction around these days
