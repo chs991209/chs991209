@@ -23,7 +23,7 @@ with a Minor in Molecular Biology                     Mar. 2018 – Aug. 2026 (E
 Undergraduate Researcher - PI: Professor Gwangsu Kim       Jan. 2026 - Ongoing
 <br>Statistical Learning for AI Lab | Department of Statistics
 
-Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – Dec.2025
+Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – Dec. 2025
 <br>Software System Engineering Lab | Department of Software Engineering
 <br>
 
@@ -62,7 +62,7 @@ Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – De
 
 <br>Role: PM
 
-<br>– Conducted Ideation, methodology & architecture’s design and development  Nov.2025 – Dec.2025
+<br>– Conducted Ideation, methodology & architecture’s design and development  Nov. 2025 – Dec. 2025
 <br>
 
 
@@ -120,7 +120,7 @@ Undergraduate Researcher - Advisor: Professor Suntae Kim        Jun. 2025 – De
 <br>- Course: Sessions from mentors, 3 project trajectories 
   and project guide from IMS Mobility CTO.
   
-<br>- Role: Developer & Engineering Manager, PM                      Sep. 2023 – Dec.2023
+<br>- Role: Developer & Engineering Manager, PM                      Sep. 2023 – Dec. 2023
 <br>
 
 ### **Mandatory Military Service, Republic of Korea Army | Honorable Discharge**  
@@ -131,7 +131,7 @@ Command and Control Center’s Situation Report Clerk,
 ### **Internship at Platform Software Development Department of Campingtalk Corp.**
 
 <br>Assistance for Quality Assurance of camping reservation platform, 
-<br>in cooperation with Software Engineers of Campingtalk.             Apr.2021 – Feb. 2022
+<br>in cooperation with Software Engineers of Campingtalk.             Apr. 2021 – Feb. 2022
 <br>
 
 ## PUBLICATIONS & CONFERENCES AND AWARDS
