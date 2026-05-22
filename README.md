@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-# Hyeonsu Choi ✨  
+# Hyunsu Choi ✨  
 (chs991209@gmail.com|linkedin.com/in/chscamping|[google scholar](https://scholar.google.com/citations?user=V4S55GgAAAAJ&hl=ko))
 
 
