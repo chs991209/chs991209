@@ -4,8 +4,24 @@
 
 Observe my scholar information at [here](https://chs991209.github.io).
 
+## Recent Researches
 
-🧐 **Interests**: Data Science | Reinforcement Learning | Agentic AI | Physical AI | Multimodal Models
+- Multi-agent systems' reasoning collapses
+ -- Enhancement through Reinforcement Learning
+- Video-Oculography Data-based MCI Detection
+  -- Enhancing performance over small size and large dimension's dataset
+- Reproducibility problems' solution through Deep Learning on Medical AI
+
+## Publications
+
+- Aug. 2026
+  -- "Video-Oculography Data-based MCI Detection"
+  -- Poster track on Deep Learning
+  -- @KAIA 2026 summer conference
+- Jun. 2025
+  -- "An Approach to build MCP-based Personal Voice Assistant on PC"
+  -- @KIIT 2025 summer conference
+  
 
 ---  
 
@@ -39,8 +55,6 @@ Observe my scholar information at [here](https://chs991209.github.io).
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeOrm-FE0702?style=for-the-badge&logo=TypeOrm&logoColor=orange)
 
-- Have studied
-  - <p>Just have studied a little bit</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Study Log](https://github.com/SUSC-KR/25SS_Database_Study)*
 
